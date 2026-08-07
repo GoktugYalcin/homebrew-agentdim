@@ -26,6 +26,6 @@ class Agentdim < Formula
   end
 
   test do
-    assert_match "Done", shell_output("#{bin}/agentdim 2>&1", 0..1)
+    assert_match "Done", shell_output("#{bin}/agentdim 2>&1")
   end
 end
