@@ -1,8 +1,8 @@
 class Agentdim < Formula
   desc "Instantly dim every connected display to zero without locking or sleeping the Mac"
   homepage "https://github.com/GoktugYalcin/agentdim"
-  url "https://github.com/GoktugYalcin/agentdim/archive/refs/tags/v1.0.1.tar.gz"
-  sha256 "c435aa462f1134c616f0e11cbedc75c4e99b3e096d326df321059160f936062f"
+  url "https://github.com/GoktugYalcin/agentdim/archive/refs/tags/v1.0.2.tar.gz"
+  sha256 "6617bc702d6efcfbc22359bc677ed5400709a534168867c23160412216ac7b3e"
   license "GPL-3.0-only"
 
   on_arm do
